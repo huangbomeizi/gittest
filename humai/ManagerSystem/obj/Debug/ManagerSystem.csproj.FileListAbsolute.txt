@@ -1,0 +1,7 @@
+E:\project\humai\ManagerSystem\bin\ManagerSystem.dll
+E:\project\humai\ManagerSystem\bin\ManagerSystem.pdb
+E:\project\humai\ManagerSystem\bin\EntityFramework.dll
+E:\project\humai\ManagerSystem\bin\EntityFramework.xml
+E:\project\humai\ManagerSystem\obj\Debug\ManagerSystem.csprojResolveAssemblyReference.cache
+E:\project\humai\ManagerSystem\obj\Debug\ManagerSystem.dll
+E:\project\humai\ManagerSystem\obj\Debug\ManagerSystem.pdb
